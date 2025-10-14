@@ -126,9 +126,9 @@ const Footer: React.FC = () => {
           className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center"
         >
           <div className="flex items-center text-gray-400 mb-4 md:mb-0">
-            <span>© 2025 Pluto. Made with</span>
+            <span>© 2025 Schmid Payen. Made with</span>
             <Heart className="w-4 h-4 text-red-500 mx-1" />
-            <span>in Lagos, Nigeria</span>
+            <span>in Bradenton, FL</span>
           </div>
           
           <div className="flex items-center space-x-6 text-sm text-gray-400">
