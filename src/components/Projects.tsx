@@ -30,7 +30,7 @@ const Projects: React.FC = () => {
   const projects = [
     {
       title: 'Cloud-Native Audio Device Management',
-      client: 'Schmid Payen',
+      client: 'EarthSoft',
       description: 'Developed robust middleware solutions for cutting-edge audio and network devices using AWS IoT Core and custom WebSockets. Implemented CI/CD automation pipelines with comprehensive testing frameworks.',
       technologies: ['AWS IoT Core', 'WebSockets', 'C#', 'Docker', 'CI/CD'],
       liveUrl: '#',
