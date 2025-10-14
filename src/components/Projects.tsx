@@ -67,10 +67,10 @@ const Projects: React.FC = () => {
   ];
 
   const projectStats = [
-    { number: '15+', label: 'Projects Delivered', icon: Code },
-    { number: '5', label: 'Awards Won', icon: Award },
+    { number: '35+', label: 'Projects Delivered', icon: Code },
+    { number: '8', label: 'Awards Won', icon: Award },
     { number: '99.9%', label: 'Client Satisfaction', icon: Eye },
-    { number: '10+', label: 'Technologies Mastered', icon: Zap }
+    { number: '18+', label: 'Technologies Mastered', icon: Zap }
   ];
 
   return (
