@@ -7,7 +7,7 @@ const Experience: React.FC = () => {
     {
       company: 'EarthSoft',
       position: 'Software Engineer (Remote)',
-      duration: 'NOV 2022 - SEP 2025',
+      duration: 'NOV 2022 - Present',
       location: 'Remote',
       description: 'Earned Service Excellence Award after only two months and Service Level Award within four months, demonstrating exceptional performance.',
       responsibilities: [
